@@ -68,3 +68,20 @@ section{
     border: 1px solid #ccc;
 
 }
+
+.feelingBtn{
+    margin: 0 20px;
+    margin-top: 20px;
+    padding: 12px 20px;
+    cursor: pointer;
+    border: none;
+    color: #555;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    outline: none;
+}
+.feelingBtn:hover{
+    border: 1px solid #ccc;
+
+}
